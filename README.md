@@ -20,7 +20,6 @@ Code for scraping looks like this:
     url = "https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M"
     tables = pd.read_html(url)
     table_df = tables[0]
-    table_df.head()
    
 
 
