@@ -50,8 +50,15 @@ When we run the analysis for the whole of East and West Toronto, we can see that
 
 We analyze each neighbourhood using one hot encoding. Next, we group rows by neighbourhood and by taking the mean of the frequency of occurrence of each category and print each neighbourhood along with the top 5 most common venues.
 
-Now we cluster our neighbourhoods using k-means cluster algorithm.
+![11_top_10_east](images/11_top_10_east.png)
 
+![12_top_10_west](images/12_top_10_west.png)
+
+Now we cluster our neighbourhoods using k-means cluster algorithm.
 
 As is clear from the data analysis, Cafes are the the most popular venues in West Toronto with 41 locations and in East Toronto,
 there second most popular with 14 locations. It is clear that they are the new emerging trend. As an investor, it would be advisable to invest in a Cafe Shop in East Toronto. Since there are on 14 there compared to 41 in West Toronto, opening one up in East Toronto would be a wise move.
+
+![15_top_15_east](images/15_top_15_east.png)
+
+![16_top_15_west](images/16_top_15_west.png)
