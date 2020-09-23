@@ -1,7 +1,7 @@
 # Analyzing-Toronto-Neighborhoods
 ## by Sushant Deshpande
 
-Every city is built on different circumstances, environment and different constraints. In this project, we’ll analyze Toronto’s most multicultural neighbourhoods, East Toronto and West Toronto. By doing so, we’ll see what types of venues are popular in each neighbourhoods. This will help a group of investors understand what type of restaurant they would like to invest in. In order to achieve this, We’ll perform the following:
+The basis of this study is to help a small group of investors planning to open their first brewery/restaurant in Toronto. Being that Toronto is the most populated city in Canada, and continually ranks as an important global city based on a high quality of living, the choice to expand into the neighbor of the north market was an easy selection for the investing group. However, with limited knowledge of the Toronto market, the group of investors have selected us to assist in the selection of which areas of Toronto will facilitate a launch of their brewery/restaurant expansion. In order to achieve this, We’ll perform the following:
 
  - Get the postal codes from Wikipedia using web scraping method in python.
  - Clean up the data and merge it with the geopositional data provided to us by Coursera.
