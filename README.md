@@ -1,8 +1,6 @@
 # Analyzing-Toronto-Neighborhoods
 ## by Sushant Deshpande
 
-Every city is built on different circumstances, environment and different constraints. In this project, we’ll compare the neighborhoods of of 2 major columns and how can they be compared with respect to places to eat, better connectivity to several useful regions and how are they distributed around both cities. The places I will be considering are airports, metro, coffee shop, restaurants, schools, college, general stores, hospitals etc. The audience will be tourists who consider travelling through financial capital of the 2 countries analyzed and search for better neighborhoods suited for their needs.
-
 Every city is built on different circumstances, environment and different constraints. In this project, we’ll analyze Toronto’s most multicultural neighbourhoods, East Toronto and West Toronto. By doing so, we’ll see what types of venues are popular in each neighbourhoods. This will help a group of investors understand what type of restaurant they would like to invest in. In order to achieve this, We’ll perform the following:
 
  - Get the postal codes from Wikipedia using web scraping method in python.
@@ -43,6 +41,10 @@ First, we split the data in to 2 categories, East Toronto and West Toronto.
 ![04_toronto_east](images/04_toronto_east.png)
 
 With FourSquare, we get the list of venues that are close to a selected postal code.
+
+![07_nearby_east](images/07_nearby_east.png)
+
+![08_nearby_west](images/08_nearby_west.png)
 
 When we run the analysis for the whole of East and West Toronto, we can see that Four Square tells us that East Toronto has 133 unique categories and West Toronto has 162 unique categories.
 
