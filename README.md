@@ -24,7 +24,7 @@ Code for scraping looks like this:
 ### STEP 2 - Cleaning the data
 
 More than one neighbourhood can exist in one postal code area. For example, in the table on the Wikipedia page, you will notice
-that M5A is listed twice and has two neighbourhoods: Harbourfront and Regent Park. These two rows will be combined into one
+that M5A is listed twice and has two neighbourhoods, Harbourfront and Regent Park. These two rows will be combined into one
 row with the neighbourhoods separated with a comma.
 
 Now we need to combine our data with geospatial_coordinates.csv file provided to us. This’ll get us coordinates for each of the
